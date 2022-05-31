@@ -1,0 +1,10 @@
+<navigation> -> Can you take me to the [exhibit:B-location]
+<navigation> -> Can you take me to the [showroom:B-location]
+<greeting> -> how are you
+<navigation> -> where is the [bathroom:B-location]
+<retreat> -> bye
+<change_language> -> can you speak [german:B-language] instead of [english:B-language]
+<navigation> -> I want to go to the [exit:B-location]
+<ask_name> -> what is your name
+<ask_name> -> can I ask your name
+<introduce_item> -> can you introduce this item
