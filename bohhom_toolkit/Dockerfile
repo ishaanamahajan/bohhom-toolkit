@@ -48,6 +48,13 @@ RUN set -xe \
     && apt-get update -y \
     && apt-get install -y python3-pip
 
+ARG USERNAME
+ARG USERHOME
+ARG USERSHELL
+ARG USERSHELLPATH
+ARG USERSHELLPROFILE
+
+# Add user and grant sudo permission.
 
 
 
@@ -91,6 +98,9 @@ RUN groupadd --gid $USER_GID $USERNAME \
   && echo "source /usr/share/bash-completion/completions/git" >> /home/$USERNAME/.bashrc \
   && echo "if [ -f /opt/ros/${ROS_DISTRO}/setup.bash ]; then source /opt/ros/${ROS_DISTRO}/setup.bash; fi" >> /home/$USERNAME/.bashrc
 ENV DEBIAN_FRONTEND=
+
+#getting CMake
+RUN apt-get update && apt-get -y install cmake protobuf-compiler
 
 
 #  Full image 
