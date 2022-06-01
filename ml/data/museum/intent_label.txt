@@ -1,7 +1,0 @@
-UNK
-greeting
-ask_name
-introduce_item
-change_language
-navigation
-retreat
