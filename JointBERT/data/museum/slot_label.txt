@@ -1,7 +1,0 @@
-PAD
-UNK
-O
-B-language
-I-language
-B-location
-I-location
