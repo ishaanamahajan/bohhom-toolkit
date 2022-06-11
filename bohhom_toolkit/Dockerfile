@@ -4,7 +4,7 @@ FROM ${BASE_IMAGE}
 ENTRYPOINT ["tail", "-f", "/dev/null"]
 
 ARG ROS_PKG=ros_base
-ENV ROS_DISTRO=noetic
+ENV ROS_DISTRO=melodic
 ENV ROS_ROOT=/opt/ros/${ROS_DISTRO}
 ENV ROS_PYTHON_VERSION=3
 
