@@ -1,4 +1,4 @@
-<h><b>LOCOBOT WX250s</b></h>
+<h1 style="font-size:10vw">LOCOBOT WX250s</h1>
 
 body {
   font-size: 100%;
