@@ -50,4 +50,15 @@ RUN    curl 'https://raw.githubusercontent.com/Interbotix/interbotix_ros_rovers/
 RUN    chmod +x xslocobot_remote_install.sh
 RUN    ./xslocobot_remote_install.sh 
 
-CMD tail -f /dev/null
+#installing the ssh client 
+RUN apt update && apt install  openssh-server sudo -y
+
+RUN useradd -rm -d /home/ubuntu -s /bin/bash -g root -G sudo -u 1000 test 
+
+RUN  echo 'test:test' | chpasswd
+
+RUN service ssh start
+
+EXPOSE 22
+
+CMD ["/usr/sbin/sshd","-D"]
