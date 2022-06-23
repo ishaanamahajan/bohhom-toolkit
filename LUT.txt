@@ -1,0 +1,7 @@
+1: retreat
+2: move forward
+3: move backward
+4: rotate
+5: turn left
+6: turn right
+7: nagivate to location_A
