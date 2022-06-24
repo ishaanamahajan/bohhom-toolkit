@@ -1,0 +1,3 @@
+[submodule "interbotix_ros_rovers"]
+	path = interbotix_ros_rovers
+	url = https://github.com/Interbotix/interbotix_ros_rovers.git
