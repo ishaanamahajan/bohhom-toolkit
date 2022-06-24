@@ -1,0 +1,97 @@
+change_language:adjust your language seting to english
+change_language:set your language setting to english
+change_language:make your preferred language english
+change_language:I would like to have language set to spanish, please
+change_language:please give me your responses only in french from now on
+change_language:can we speak in english rather than zulu
+change_language:I would like to change your language from portuguese to italian
+change_language:change the response language to french please
+change_language:can you give me the answers in italian instead of english
+change_language:I want us to speak to each other in spanish from now on
+change_language:let's speak in mandarin instead of english
+change_language:how can we start communicating in french rather than english
+change_language:please change the language that you are responding in
+change_language:how do I change the language that your responses are delivered in
+change_language:I need to switch the language for your responses
+change_language:I need to change language to spanish
+change_language:fix my language to spanish
+change_language:speak in the language english
+change_language:I need to change my speaking to spanish
+change_language:I want to switch speaking to french
+change_language:replace my language to chinese
+change_language:can you change your language to japanese
+change_language:change your language to spanish please
+change_language:can you translate that to french
+change_language:please respond to me in spanish
+change_language:can you speak to me using japanese
+change_language:I would appreciate it if you could talk to me in french
+change_language:do you know french
+change_language:can we talk in french
+change_language:can you talk to me in italian
+change_language:can you speak to me in french
+change_language:can you speak to me in chinese
+change_language:talk to me in italian from now on
+change_language:can I start talking to you in french
+change_language:can you talk to me in french
+change_language:can you talk in spanish
+change_language:can I start talking to you in spanish
+change_language:please talk to me in spanish
+change_language:can you understand me, if I start talking in italian
+change_language:is it okay if I start speaking to you in german
+change_language:can I give you instructions in japanese
+change_language:talk to me in spanish from now on
+change_language:can you talk to me in chinese
+change_language:I am going to switch to greek
+change_language:I want to use spanish as my language
+change_language:I will be speaking chinese going forward
+change_language:the language I am using will now be italian
+change_language:I am changing over to italian now
+change_language:is there an option to speak only in mandarin
+change_language:let's go ahead and switch your language
+change_language:I want to edit the language
+change_language:is it possible to only talk in spanish
+change_language:let me talk to you in greek
+change_language:change the native language
+change_language:can I speak to you in german
+change_language:is there an option to change the language
+change_language:i need to change the language to french
+change_language:how can i adjust the spoken language
+change_language:answer me in french
+change_language:please respond in latin from now on
+change_language:talk to me in italian
+change_language:let's chat using spanish
+change_language:i need the language set to swahili
+change_language:change the language you're using to american english
+change_language:switch the language setting over to german
+change_language:change language to french, please
+change_language:can you swap the language to afrikaans for me
+change_language:i want you to address me in italian
+change_language:i want you to speak in french
+change_language:start talking in spanish
+change_language:can you speak in french
+change_language:i want to hear from you in german
+change_language:change your language setting to german
+change_language:alter your language to french
+change_language:change your language prefrences japanese
+change_language:change your language setting to chinese
+change_language:alter your language choice to dutch
+change_language:change your language
+change_language:can i change your language
+change_language:select a new language
+change_language:i want to put you in a different language
+change_language:let's change the language for you
+change_language:set default language to english
+change_language:you should respond in english
+change_language:please respond in english
+change_language:change your spoken language to english
+change_language:change language setting to english
+change_language:switch your language setting to english
+change_language:i want your language changed to chinese
+change_language:can you start talking to me in spanish from here on out
+change_language:please speak to me in chinese
+change_language:please make your language setting french
+change_language:please speak german to me from now on
+change_language:i need your language setting to be russian now
+change_language:please change your language setting to spanish
+change_language:i want your responses to be in french
+change_language:from now on, i want you to answer me using japanese

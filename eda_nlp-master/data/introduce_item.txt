@@ -1,0 +1,35 @@
+introduce_item:let me hear the introduction of this item
+introduce_item:what is this thing
+introduce_item:please start introducing this item
+introduce_item:what is this 
+introduce_item:what is that
+introduce_item:Could you tell me more about this 
+introduce_item:What's the story behind this
+introduce_item:What's the history behind this 
+introduce_item:Can you let me know more about this
+introduce_item:What is it
+introduce_item:Could you please introduce this 
+introduce_item:Could you let me know more
+introduce_item:Could I learn about this more
+introduce_item:Could I learn more about this
+introduce_item:Could you tell me the story behind this
+introduce_item:Could you tell me the history behind this
+introduce_item:Could you tell me what you know about this
+introduce_item:Could you let me know its history
+introduce_item:Could you let me know its story
+introduce_item:Could you share more information about this 
+introduce_item:Could you share more story behind this
+introduce_item:Is there something famous about this
+introduce_item:Is there something interesting you can tell us
+introduce_item:Is there something you can share with me
+introduce_item:Is there something interesting about this
+introduce_item:What do you know about this 
+introduce_item:What’s interesting about this
+introduce_item:Share more about this
+introduce_item:Tell us more about this
+introduce_item:What's special about this
+introduce_item:Could you tell me what's special about this
+introduce_item:Can you intrudoce this painting
+introduce_item:could you explain this painting
+introduce_item:I would like to know more about this painting
+introduce_item:can you introduce this item

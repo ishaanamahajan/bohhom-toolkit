@@ -1,0 +1,12 @@
+retreat:bye
+retreat:bye bye
+retreat:see you later
+retreat:go away
+retreat:see you soon
+retreat:talk to you later
+retreat:I'm off
+retreat:goodbye
+retreat:retreat
+retreat:stop
+retreat:you can go now
+retreat:Salute

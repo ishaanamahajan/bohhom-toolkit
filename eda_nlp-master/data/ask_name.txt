@@ -1,0 +1,29 @@
+ask_name:what may i call you
+ask_name:what was your name again
+ask_name:your name is
+ask_name:whats your name by the way
+ask_name:what's your name if I may ask
+ask_name:what is your name by the chance
+ask_name:what is your name
+ask_name:what exactly is your name
+ask_name:what's the name I should use to talk to you
+ask_name:what is your given name
+ask_name:what's the name you were given
+ask_name:can I ask your name
+ask_name:do you mind if I ask your name
+ask_name:do you have a nickname
+ask_name:what do you go by
+ask_name:what do you call yourself
+ask_name:I'd like to know your name
+ask_name:your name please
+ask_name:Would you please tell me your name
+ask_name:May I ask what is your name
+ask_name:Could I ask what is your name
+ask_name:Could you tell me what your name is
+ask_name:May you please tell me what is your name
+ask_name:How should I call you
+ask_name:what's your name
+ask_name:How may I address you
+ask_name:How should I address you
+ask_name:What should I call you
+ask_name:can I have your name

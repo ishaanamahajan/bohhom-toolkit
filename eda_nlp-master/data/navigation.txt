@@ -1,0 +1,49 @@
+navigation:how do I get to location_A
+navigation:can you show me the way to location_A
+navigation:could you tell me the best way to get to location_B
+navigation:what is the quickest way to get to location_A
+navigation:where is location_C
+navigation:may I ask the direction to exhibit A
+navigation:How to get to location_A
+navigation:How can I get to location_A
+navigation:What is the direction to location_A
+navigation:Could you tell me the direction to location_A
+navigation:Could you tell me where is location_A
+navigation:Could you show me the direction to location_A
+navigation:Could you show me the way to location_A
+navigation:What is the way to location_A
+navigation:Please show me the way to location_A
+navigation:Please let me know the way to location_A
+navigation:Please kindly lead me to location_A
+navigation:Please take me to location_A
+navigation:Could you take me to location_A please
+navigation:Can you lead me to location_A please
+navigation:show me the exit please
+navigation:I would like to go to the exit
+navigation:where is the exit
+navigation:I would like to go to the bathroom
+navigation:Can you take me to the Asian collection room
+navigation:can you take me to the place that has wartime artist's work
+navigation:where is the café
+navigation:can you show me where the café is
+navigation:can you take me to the café
+navigation:where is the food court
+navigation:can you show me where the food court is
+navigation:can you take me to the food court
+navigation:can you show me the way to the wartime artist room
+navigation:Can you bring me to the Chinese collection room
+navigation:I would like to go to the Asian collection place
+navigation:I would like to see the American Archaeology collection
+navigation:can you bring me to the natural history exhibit
+navigation:can you please show me the way to the natural history exhibit
+navigation:how should I go to the natural history room
+navigation:I would like to go to the Natural History exhibit
+navigation:I want to go to the café 
+navigation:I want to go to the food court
+navigation:show me where the café is please
+navigation:Can you take me to the natural history exhibt please
+navigation:how should I go to the European Art room
+navigation:I would like to go to the European Art exhibit
+navigation:Can you take me to the European Art exhibt please
+navigation:show me where the food court is please
+navigation:can you take me to showroom B
