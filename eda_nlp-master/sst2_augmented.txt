@@ -1,0 +1,265 @@
+greeting	whats happening
+greeting	whats happening
+greeting	whats go on
+greeting	whats occurrence
+greeting	whats happening
+greeting	greet
+greeting	greeting
+greeting	greetings
+greeting	greetings
+greeting	greetings
+greeting	hey bird
+greeting	hey razzing
+greeting	hey
+greeting	boo
+greeting	hey boo
+greeting	how are things survive
+greeting	how are matter going
+greeting	how are things going
+greeting	how are things going
+greeting	how are things going
+greeting	beaming to see you
+greeting	beaming to see you
+greeting	glad to see you
+greeting	glad to see you
+greeting	glad to see you
+ask_name	could i call for what is your name
+ask_name	could i expect what is your name
+ask_name	could i ask what is name
+ask_name	could i ask what is your name
+ask_name	could i ask what is your name
+ask_name	could you tell me what your name is
+ask_name	could you tell me what your name
+ask_name	could you say me what your name is
+ask_name	could you secern me what your name is
+ask_name	could you tell me what your name is
+ask_name	may you please tell me what
+ask_name	may you delight tell me what is your name
+ask_name	may you delight tell me what is your name
+ask_name	may you please tell what is your name
+ask_name	may you please tell me what is your name
+ask_name	how should i call you
+ask_name	how i call you
+ask_name	how should i predict you
+ask_name	how should i ring you
+ask_name	how should i call you
+ask_name	whats your epithet
+ask_name	whats your name
+ask_name	whats your name
+ask_name	whats your call
+ask_name	whats your name
+ask_name	how crataegus oxycantha i address you
+ask_name	how may i turn to you
+ask_name	how may i address
+ask_name	how may i address you
+ask_name	how may i address you
+introduce_item	is there something matter to about this
+introduce_item	is there something interesting about this
+introduce_item	is there something concern about this
+introduce_item	is there interesting this
+introduce_item	is there something interesting about this
+introduce_item	what do you acknowledge about this
+introduce_item	what do you know about this
+introduce_item	what do you know about this
+introduce_item	what do you make out about this
+introduce_item	what do you know about this 
+introduce_item	what s interesting about this
+introduce_item	what s interesting about this
+introduce_item	what s concern about this
+introduce_item	what s worry about this
+introduce_item	what s interesting about this
+introduce_item	share more about this
+introduce_item	portion out more about this
+introduce_item	portion more about this
+introduce_item	share more about this
+introduce_item	share more about this
+introduce_item	tell us more about this
+introduce_item	tell america more about this
+introduce_item	more about this
+introduce_item	tell u more about this
+introduce_item	tell us more about this
+introduce_item	whats especial about this
+introduce_item	whats special about this
+introduce_item	whats exceptional about this
+introduce_item	special about
+introduce_item	whats special about this
+introduce_item	could you tell me whats peculiar about this
+introduce_item	could you tell me special about this
+introduce_item	could you william tell me whats special about this
+introduce_item	could you tell me whats special about this
+introduce_item	could you tell me whats special about this
+introduce_item	can you introduce this paint
+introduce_item	can you introduce this painting
+introduce_item	can you inclose this painting
+introduce_item	can you introduce this painting
+introduce_item	can you introduce this painting
+change_language	i want you to name and address me in italian
+change_language	want to address me in
+change_language	i want you to address me in italian
+change_language	i want you to cover me in italian
+change_language	i want you to address me in italian
+change_language	i want speak in french
+change_language	i want you to speak in french
+change_language	i wish you to speak in french
+change_language	i want you to mouth in french
+change_language	i want you to speak in french
+change_language	start talking in
+change_language	start talking in spanish
+change_language	pop out talking in spanish
+change_language	start talking in spanish people
+change_language	start talking in spanish
+change_language	can you speak french
+change_language	can you speak in gallic
+change_language	can you verbalize in french
+change_language	can you speak in french
+change_language	can you speak in french
+change_language	want to hear from you in german
+change_language	i to hear from you in german
+change_language	i want to see from you in german
+change_language	i want to learn from you in german
+change_language	i want to hear from you in german
+change_language	change your language gear up to german
+change_language	change your language ready to german
+change_language	change your language setting to german
+change_language	change your language setting to german
+change_language	change your language setting to german
+change_language	alter your spoken communication to french
+change_language	alter your language to french
+change_language	alter your language french
+change_language	alter your linguistic communication to french
+change_language	alter your language to french
+change_language	change your language prefrences japanese
+change_language	change your language prefrences japanese
+change_language	exchange your language prefrences japanese
+change_language	variety your language prefrences japanese
+change_language	change your language prefrences japanese
+change_language	change your setting to chinese
+change_language	change your language setting to formosan
+change_language	change your language setting to taiwanese
+change_language	change your language setting to chinese
+change_language	change your language setting to chinese
+change_language	falsify your language choice to dutch
+change_language	neuter your language choice to dutch
+change_language	alter your choice to dutch
+change_language	alter language to dutch
+change_language	alter your language choice to dutch
+change_language	change your language
+change_language	change your speech communication
+change_language	modification your language
+change_language	change your language
+change_language	change your language
+change_language	can i change your terminology
+change_language	can i change your lyric
+change_language	can i change your language
+change_language	can i change your language
+change_language	can i change your language
+change_language	select a new language
+change_language	select a new oral communication
+change_language	select a newly language
+change_language	a new language
+change_language	select a new language
+change_language	i want put you in a different language
+change_language	i need to put you in a different language
+change_language	i want to put you a different language
+change_language	i want to put you in a different voice communication
+change_language	i want to put you in a different language
+change_language	lets change the language for you
+change_language	lets change the spoken language for you
+change_language	army of the righteous change the language for you
+change_language	lets change the language for you
+change_language	lets change the language for you
+change_language	situated default language to english
+change_language	set nonremittal language to english
+change_language	set default language to english
+change_language	set default language english
+change_language	set default language to english
+change_language	you should respond english
+change_language	you should answer in english
+change_language	you should respond in side
+change_language	you should respond in english
+change_language	you should respond in english
+change_language	please respond in english
+change_language	please respond in english
+change_language	please reply in english
+change_language	please reply in english
+change_language	please respond in english
+change_language	change your talk language to english
+change_language	change your spoken to english
+change_language	commute your spoken language to english
+change_language	change your spoken language to english
+change_language	change your spoken language to english
+change_language	change language to english
+change_language	change language setting
+change_language	change voice communication setting to english
+change_language	change language setting to english people
+change_language	change language setting to english
+change_language	switch your spoken language setting to english
+change_language	switch your words setting to english
+change_language	switch your language setting to english
+change_language	switch your language setting to english
+change_language	switch your language setting to english
+navigation	would like go to the asian collection place
+navigation	i would like to go to the asian assemblage place
+navigation	i would like to go to the asian collecting place
+navigation	i to go the asian collection place
+navigation	i would like to go to the asian collection place
+navigation	i would like to see the american archaeology collection
+navigation	i would like to see the american archaeology collection
+navigation	i would like to see the american archaeology assemblage
+navigation	i would like to see the american archaeology compendium
+navigation	i would like to see the american archaeology collection
+navigation	can you work me to the natural history exhibit
+navigation	can you bring me to the natural chronicle exhibit
+navigation	can you bring me to the history exhibit
+navigation	can bring me to the natural history exhibit
+navigation	can you bring me to the natural history exhibit
+navigation	can you please show me the way to natural history exhibit
+navigation	can you please show me the way to the lifelike history exhibit
+navigation	can you please show me the way the natural history exhibit
+navigation	can you please show me the way to the natural story exhibit
+navigation	can you please show me the way to the natural history exhibit
+navigation	how should i go to the raw history room
+navigation	how should i go to the natural history board
+navigation	how should i go to the natural history room
+navigation	how should i go to the natural history room
+navigation	how should i go to the natural history room
+navigation	i would like to go to the rude history exhibit
+navigation	i would like to go to the natural history exhibit
+navigation	i would like to go to the natural history show
+navigation	i would like to go to natural history
+navigation	i would like to go to the natural history exhibit
+navigation	can you make me to the natural history exhibit please
+navigation	can you take me to the natural history exhibit please
+navigation	can you take me to the natural history exhibit delight
+navigation	can you take me to the natural history exhibit please
+navigation	can you take me to the natural history exhibit please
+retreat	retreat
+retreat	retreat
+retreat	pull away
+retreat	pull away
+retreat	retreat
+retreat	stop
+retreat	stop
+retreat	full point
+retreat	break
+retreat	stop
+retreat	you can extend now
+retreat	you can go now
+retreat	you can sound now
+retreat	you can go
+retreat	you can go now
+navigation	i deficiency to go to the cafe
+navigation	i want to go the cafe
+navigation	i want to go to the coffeehouse
+navigation	i want to go to the cafe
+navigation	i want to go to the cafe 
+navigation	i want to go to the food court
+navigation	i want to go to the food for thought court
+navigation	i want to go the food court
+navigation	i lack to go to the food court
+navigation	i want to go to the food court
+navigation	show me where the coffee bar is please
+navigation	show me where the cafe is please
+navigation	prove me where the cafe is please
+navigation	show me where the cafe is please
+navigation	show me where the cafe is please

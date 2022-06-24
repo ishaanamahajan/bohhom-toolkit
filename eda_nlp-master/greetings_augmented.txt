@@ -1,0 +1,130 @@
+greeting	hello
+greeting	hullo
+greeting	howdy
+greeting	hello
+greeting	hello
+greeting	howdy there
+greeting	howdy there
+greeting	hi there
+greeting	there
+greeting	hi there
+greeting	howdy
+greeting	how do you do
+greeting	hi
+greeting	hi
+greeting	hi
+greeting	hey
+greeting	hey
+greeting	hey
+greeting	hey
+greeting	hey
+greeting	good morning
+greeting	safe morning
+greeting	in effect morning
+greeting	good morning
+greeting	good morning
+greeting	good afternoon
+greeting	skillful afternoon
+greeting	good afternoon
+greeting	good good afternoon
+greeting	good afternoon
+greeting	near evening
+greeting	good level
+greeting	good evening
+greeting	good evening
+greeting	good evening
+greeting	how are you
+greeting	how are you
+greeting	how are you
+greeting	how you
+greeting	how are you
+greeting	whats up
+greeting	whats up
+greeting	whats up
+greeting	whats up
+greeting	whats up
+greeting	how do you do
+greeting	how do you do
+greeting	how do you do
+greeting	how do you do
+greeting	how do you do
+greeting	im sorry
+greeting	im sorry
+greeting	im gloomy
+greeting	im dismal
+greeting	im sorry
+greeting	salute
+greeting	present
+greeting	salute
+greeting	wassail
+greeting	salute
+greeting	break of the day
+greeting	daybreak
+greeting	morning
+greeting	morning
+greeting	morning
+greeting	good afternoon
+greeting	afternoon
+greeting	good afternoon
+greeting	afternoon
+greeting	afternoon
+greeting	evening
+greeting	flush
+greeting	level
+greeting	evening
+greeting	evening
+greeting	whats going on
+greeting	whats drop dead on
+greeting	whats going on
+greeting	whats go on
+greeting	whats going on
+greeting	how s everything
+greeting	s everything
+greeting	how s everything
+greeting	how s everything
+greeting	how s everything
+greeting	how are things
+greeting	how are affair
+greeting	how are things
+greeting	how are thing
+greeting	how are things
+greeting	good to see you
+greeting	good to see
+greeting	good to look you
+greeting	good to project you
+greeting	good to see you
+greeting	whats encounter
+greeting	whats happening
+greeting	whats go on
+greeting	whats happening
+greeting	whats happening
+greeting	recognise
+greeting	recognize
+greeting	greetings
+greeting	greetings
+greeting	greetings
+greeting	hey hoot
+greeting	hey hiss
+greeting	hey boo
+greeting	hey boo
+greeting	hey boo
+greeting	how are things going
+greeting	how are things going
+greeting	how are matter going
+greeting	how are things fail
+greeting	how are things going
+greeting	glad to see you
+greeting	beaming to see you
+greeting	glad to come across you
+greeting	glad to see you
+greeting	glad to see you
+greeting	hello golem
+greeting	howdy robot
+greeting	hello robot
+greeting	hello robot
+greeting	hello robot
+greeting	apologize me
+greeting	excuse
+greeting	excuse me
+greeting	rationalise me
+greeting	excuse me
