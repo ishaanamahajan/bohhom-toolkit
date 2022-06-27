@@ -1,0 +1,210 @@
+categories:
+- Navigation
+Conversations:
+- - How do I get to location_A?
+  - You can first turn right. Then turn left at the corner. Then you will see location_A to your left.
+  - You should first go straight to the xx building, then you can turn left. 
+  - Walk to your left and past two junctions, then you will see location_A.
+  - Let me show you. Follow me.
+  - You need to walk past xx collection and xx collection by turning to your right here. And then you will see location_A. 
+  - If you turn left from here, you will see an elevator. Go up one floor and you will see location_A.
+  - If you go up one floor, you will see a large map. You can find location_A from that map.
+  - Sorry I donot think there is a location_A in this area.
+  - Sorry I do not think I can help you. Do you wanna seek help from one of the staff?
+- - can you show me the way to location_A?
+  - You can first turn right. Then turn left at the corner. Then you will see location_A to your left.
+  - You should first go straight to the xx building, then you can turn left. 
+  - Walk to your left and past two junctions, then you will see location_A.
+  - Let me show you. Follow me.
+  - You need to walk past xx collection and xx collection by turning to your right here. And then you will see location_A. 
+  - If you turn left from here, you will see an elevator. Go up one floor and you will see location_A.
+  - If you go up one floor, you will see a large map. You can find location_A from that map.
+  - Sorry I donot think there is a location_A in this area.
+  - Sorry I do not think I can help you. Do you wanna seek help from one of the staff?
+- - can you show me the best way to location_B?
+  - You can first turn right. Then turn left at the corner. Then you will see location_A to your left.
+  - You should first go straight to the xx building, then you can turn left. 
+  - Walk to your left and past two junctions, then you will see location_A.
+  - Let me show you. Follow me.
+  - You need to walk past xx collection and xx collection by turning to your right here. And then you will see location_A. 
+  - If you turn left from here, you will see an elevator. Go up one floor and you will see location_A.
+  - If you go up one floor, you will see a large map. You can find location_A from that map.
+  - Sorry I donot think there is a location_A in this area.
+  - Sorry I do not think I can help you. Do you wanna seek help from one of the staff?
+- - what is the quickest way to get to location_A?
+  - You can first turn right. Then turn left at the corner. Then you will see location_A to your left.
+  - You should first go straight to the xx building, then you can turn left. 
+  - Walk to your left and past two junctions, then you will see location_A.
+  - Let me show you. Follow me.
+  - You need to walk past xx collection and xx collection by turning to your right here. And then you will see location_A. 
+  - If you turn left from here, you will see an elevator. Go up one floor and you will see location_A.
+  - If you go up one floor, you will see a large map. You can find location_A from that map.
+  - Sorry I donot think there is a location_A in this area.
+  - Sorry I do not think I can help you. Do you wanna seek help from one of the staff?
+- - where is location_C?
+  - You can first turn right. Then turn left at the corner. Then you will see location_A to your left.
+  - You should first go straight to the xx building, then you can turn left. 
+  - Walk to your left and past two junctions, then you will see location_A.
+  - Let me show you. Follow me.
+  - You need to walk past xx collection and xx collection by turning to your right here. And then you will see location_A. 
+  - If you turn left from here, you will see an elevator. Go up one floor and you will see location_A.
+  - If you go up one floor, you will see a large map. You can find location_A from that map.
+  - Sorry I donot think there is a location_A in this area.
+  - Sorry I do not think I can help you. Do you wanna seek help from one of the staff?
+- - may I ask the direction to exhibit A?
+  - You can first turn right. Then turn left at the corner. Then you will see location_A to your left.
+  - You should first go straight to the xx building, then you can turn left. 
+  - Walk to your left and past two junctions, then you will see location_A.
+  - Let me show you. Follow me.
+  - You need to walk past xx collection and xx collection by turning to your right here. And then you will see location_A. 
+  - If you turn left from here, you will see an elevator. Go up one floor and you will see location_A.
+  - If you go up one floor, you will see a large map. You can find location_A from that map.
+  - Sorry I donot think there is a location_A in this area.
+  - Sorry I do not think I can help you. Do you wanna seek help from one of the staff?
+- - Show me the exit please.
+  - Sure, follow me.
+  - The exit is to your left.
+  - Turn right from here. The exit is by the main walk.
+  - Go one floor down. The exit is on the first floor.
+  - Walk right and past Asian collection, the exit is by the room.
+- - I would like to go to bathroom
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+  - It is right next to this showroom.
+  - There is one bathroom next to the corner.
+  - Turn left from here and you will see a big lobby. There is bathroom at the lobby.
+  - There is bathroom next to the xx showroom. The way to xx showroom is turn left from here and walk until you reach the end of corridor.
+- - Hey Where is the closet bathroom?
+  - Turn right from here and follow the main road. It will be on your right.
+  - It is downstairs. The stair is right next to you. 
+  - It is on a different floor. Please take the elevator that is by the entrance of the hall.
+- -How to get to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -How can I get to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -What is the direction to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Could you tell me the direction to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Could you tell me where is location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Could you show me the direction to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Could you show me the way to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -What is the way to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Please show me the way to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Please let me know the way to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Please kindly lead me to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Please take me to location_A
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Could you take me to location_A please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Can you lead me to location_A please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -show me the exit please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I would like to go to the exit
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -where is the exit
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I would like to go to the bathroom
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Can you take me to the Asian collection room
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you take me to the place that has wartime artist's work
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -where is the café
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you show me where the café is
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you take me to the café
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -where is the food court
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you show me where the food court is
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you take me to the food court
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you show me the way to the wartime artist room
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Can you bring me to the Chinese collection room
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I would like to go to the Asian collection place
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I would like to see the American Archaeology collection
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you bring me to the natural history exhibit
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you please show me the way to the natural history exhibit
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -how should I go to the natural history room
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I would like to go to the Natural History exhibit
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I want to go to the café 
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I want to go to the food court
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -show me where the café is please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Can you take me to the natural history exhibt please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -how should I go to the European Art room
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -I would like to go to the European Art exhibit
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -Can you take me to the European Art exhibt please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -show me where the food court is please
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+- -can you take me to showroom B
+  - No problem. Let me show you the way. 
+  - No problem. Follow me.
+
