@@ -44,6 +44,7 @@ RUN apt-get update && \
 
 
 
+
 # install locobot dependencies
 RUN sudo apt install curl
 RUN    curl 'https://raw.githubusercontent.com/Interbotix/interbotix_ros_rovers/main/interbotix_ros_xslocobots/install/xslocobot_remote_install.sh' > xslocobot_remote_install.sh
