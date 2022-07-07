@@ -28,13 +28,15 @@
   <p5>To operate the robot on human voice commands, we need to run three things at the same time. Activate the virtual environment first in home directory by running the command <code>source py37_env.sh</code>. It can be deactivated using the command <code>deactivate</code>. Then in the first terminal window, run the launch file  <code>roslaunch interbotix_xslocobot_control xslocobot_control.launch robot_model:=locobot_wx250s use_base:=true use_camera:=true use_lidar:=true</code>. In the second terminal window run the command <code> rosrun jrh_test jrh_test_control_MB.py </code>. In the third terminal window, run the command <code> rosrun jrh_test jrh_ subscriber.py</code>.</p5>
   <p5>To add more data, please follow the data format in /data/museum, and directly insert them to /data/museum/dev, /data/museum/train, and /data/museum/test. Please also add any new intents to <code>class model_parameter</code> in ml/main.py. This class is also hyperparameters are defined.</p5>
 
+  <video width="320" height="240" controls>
+  <source type="video/mp4" src="https://youtu.be/8M1PU0WS6zY">
+</video>
+
 <h6 style="font-size:3vw">Help and Support</h6>
    <p6> For help running the locobot wx250s based in NUS, contact the Controls and Simulation Lab </p6>
 
 
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://youtu.be/8M1PU0WS6zY">
-</video>
+
 
 
 
