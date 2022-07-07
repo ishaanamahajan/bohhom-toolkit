@@ -33,7 +33,7 @@
 
 
 <video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/ishaanamahajan/bohhom-toolkit/blob/master/assets/locobot_working.MP4">
+  <source type="video/mp4" src="https://youtu.be/8M1PU0WS6zY">
 </video>
 
 
